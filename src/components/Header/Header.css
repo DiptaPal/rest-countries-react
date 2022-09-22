@@ -1,0 +1,10 @@
+.headerContainer a{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 10px 20px;
+    background-color: rgb(248, 52, 85);
+    color: white;
+    font-size: 28px;
+    border-radius: 5px;
+    cursor: pointer;
+}

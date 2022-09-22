@@ -1,0 +1,11 @@
+.countryContainer{
+    background-color: rgb(0, 153, 255);
+    border: 5px solid goldenrod;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+.countryContainer img{
+    width: 250px;
+    border-radius: 5px;
+}
